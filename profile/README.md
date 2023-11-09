@@ -14,7 +14,8 @@ github organisation.</p>
     <p align="center">
 </p>
 
-Flipeet is an NFT marketplace built originally on the ethereum network. It's built to offer NFT creators and collectors more range of options to trade and exchange their NFT assets securely on the blockchain.
+At Flipeet, we are continually innovating and recreating the world of blockchain technology with amazing products that help you live your best life imaginable. We are committed to providing solutions that create equal opportunities and help you build a prosperous future.
+Visit our website to learn more
 
 ![unnamed](https://user-images.githubusercontent.com/11097108/146640298-12da8642-8580-4906-a350-826f64970916.gif)
 
